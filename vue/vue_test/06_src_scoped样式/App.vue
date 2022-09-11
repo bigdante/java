@@ -15,7 +15,7 @@
 		components:{School,Student}
 	}
 </script>
-
+<!-- 控制局部显示 -->
 <style scoped>
 	.title{
 		color: red;
