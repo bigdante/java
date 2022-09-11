@@ -16,7 +16,7 @@
 		}
 	}
 </script>
-
+<!-- 安装npm i less-loader@7 -->
 <style lang="less" scoped>
 	.demo{
 		background-color: pink;
