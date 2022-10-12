@@ -27,7 +27,7 @@
 					{id:'003',title:'开车',done:true}
 				]
 			}
-		},
+		}, 
 		methods: {
 			//添加一个todo
 			addTodo(todoObj){

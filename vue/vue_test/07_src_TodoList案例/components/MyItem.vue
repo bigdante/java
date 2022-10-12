@@ -15,7 +15,7 @@
 		name:'MyItem',
 		//声明接收todo、checkTodo、deleteTodo
 		props:['todo','checkTodo','deleteTodo'],
-		methods: {
+		methods: { 
 			//勾选or取消勾选
 			handleCheck(id){
 				//通知App组件将对应的todo对象的done值取反
