@@ -3,39 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_ioc_annotation/src/main/main.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_ioc_annotation/src/main/main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/mybatis_parameter/src/main/main1.iml" filepath="$PROJECT_DIR$/MyBatis/源码/mybatis_parameter/src/main/main1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/5-mybatis_cache/src/main/main10.iml" filepath="$PROJECT_DIR$/MyBatis/源码/5-mybatis_cache/src/main/main10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/3-mybatis_resultMap/src/main/main11.iml" filepath="$PROJECT_DIR$/MyBatis/源码/3-mybatis_resultMap/src/main/main11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring-proxy/src/main/main2.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring-proxy/src/main/main2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_ioc_xml/src/main/main3.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_ioc_xml/src/main/main3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/mybatis_mbg/src/main/main4.iml" filepath="$PROJECT_DIR$/MyBatis/源码/mybatis_mbg/src/main/main4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/4-mybatis_dynamicSQL/src/main/main5.iml" filepath="$PROJECT_DIR$/MyBatis/源码/4-mybatis_dynamicSQL/src/main/main5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring-transaction/src/main/main6.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring-transaction/src/main/main6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/mybatis_helloworld/src/main/main7.iml" filepath="$PROJECT_DIR$/MyBatis/源码/mybatis_helloworld/src/main/main7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_helloworld/src/main/main8.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_helloworld/src/main/main8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring-aop/src/main/main9.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring-aop/src/main/main9.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_listener/spring_listener.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_listener/spring_listener.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_mvc_ajax/spring_mvc_ajax.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_mvc_ajax/spring_mvc_ajax.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_mvc_annotation/spring_mvc_annotation.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_mvc_annotation/spring_mvc_annotation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_mvc_demo/spring_mvc_demo.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_mvc_demo/spring_mvc_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_mvc_extension/spring_mvc_extension.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_mvc_extension/spring_mvc_extension.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_mvc_helloworld/spring_mvc_helloworld.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_mvc_helloworld/spring_mvc_helloworld.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_mvc_rest/spring_mvc_rest.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_mvc_rest/spring_mvc_rest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/ssm/ssm.iml" filepath="$PROJECT_DIR$/MyBatis/源码/ssm/ssm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring-transaction/src/test/test.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring-transaction/src/test/test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring-aop/src/test/test1.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring-aop/src/test/test1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_ioc_xml/src/test/test10.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_ioc_xml/src/test/test10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/4-mybatis_dynamicSQL/src/test/test11.iml" filepath="$PROJECT_DIR$/MyBatis/源码/4-mybatis_dynamicSQL/src/test/test11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/mybatis_helloworld/src/test/test2.iml" filepath="$PROJECT_DIR$/MyBatis/源码/mybatis_helloworld/src/test/test2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/mybatis_mbg/src/test/test3.iml" filepath="$PROJECT_DIR$/MyBatis/源码/mybatis_mbg/src/test/test3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_helloworld/src/test/test4.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_helloworld/src/test/test4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/mybatis_parameter/src/test/test5.iml" filepath="$PROJECT_DIR$/MyBatis/源码/mybatis_parameter/src/test/test5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/3-mybatis_resultMap/src/test/test6.iml" filepath="$PROJECT_DIR$/MyBatis/源码/3-mybatis_resultMap/src/test/test6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/5-mybatis_cache/src/test/test7.iml" filepath="$PROJECT_DIR$/MyBatis/源码/5-mybatis_cache/src/test/test7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring_ioc_annotation/src/test/test8.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring_ioc_annotation/src/test/test8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MyBatis/源码/spring-proxy/src/test/test9.iml" filepath="$PROJECT_DIR$/MyBatis/源码/spring-proxy/src/test/test9.iml" />
     </modules>
   </component>
 </project>
