@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springboot/springboot.iml" filepath="$PROJECT_DIR$/springboot/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-master/springboot_05_mybatis/springboot_05_mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-study-master/springboot_05_mybatis/springboot_05_mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-master/springboot_06_mybatis_plus/springboot_06_mybatis_plus.iml" filepath="$PROJECT_DIR$/spring-boot-study-master/springboot_06_mybatis_plus/springboot_06_mybatis_plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-master/springboot_07_druid/springboot_07_druid.iml" filepath="$PROJECT_DIR$/spring-boot-study-master/springboot_07_druid/springboot_07_druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-master/springboot_08_ssmp/springboot_08_ssmp.iml" filepath="$PROJECT_DIR$/spring-boot-study-master/springboot_08_ssmp/springboot_08_ssmp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-study-master/springboot_09_config/springboot_09_config.iml" filepath="$PROJECT_DIR$/spring-boot-study-master/springboot_09_config/springboot_09_config.iml" />
     </modules>
   </component>
 </project>
